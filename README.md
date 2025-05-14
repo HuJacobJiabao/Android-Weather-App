@@ -4,12 +4,6 @@ A fully-featured Android weather application that provides real-time forecasts u
 
 ---
 
-## 📸 Demo
-
-### Splash screen
-![alt text](splash_screen.gif)
----
-
 ## 📌 Features
 
 - 🌍 **Current Location Weather**: Auto-detect location and display summary.
@@ -24,7 +18,30 @@ A fully-featured Android weather application that provides real-time forecasts u
 
 ---
 
-## 🧰 Tech Stack
+## 📸 Demo
+
+### 🔹 Main Functionalities (Side-by-Side)
+
+<div style="display: flex; gap: 10px;">
+  <img src="demo/splash_screen.gif" alt="Splash Screen" width="30%">
+  <img src="demo/auto_complete.gif" alt="Auto-complete" width="30%">
+  <img src="demo/weather_details.gif" alt="Weather Details" width="30%">
+</div>
+
+### 🔹 Favorites & Tweet
+
+<div style="display: flex; gap: 10px; margin-top: 15px;">
+  <img src="demo/add_to_remove_from_fav.gif" alt="Favorites" width="48%">
+  <img src="demo/tweet.gif" alt="Tweet" width="48%">
+</div>
+
+
+You can find the full-length demo video at the bottom of README
+
+---
+
+
+## Tech Stack
 
 | Layer      | Technologies                         |
 |------------|--------------------------------------|
@@ -60,7 +77,7 @@ android_mobile/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Android Studio (Pixel 5 Emulator recommended)
@@ -87,7 +104,8 @@ android_mobile/
    - Set your Tomorrow.io API key in `server.js` for backend
    - Ensure backend is accessible from Android emulator
 
-
+## Video Demo
+<video controls src="demo/weather_app_demo.mp4" title="Title"></video>
 ---
 
 

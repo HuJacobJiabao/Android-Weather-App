@@ -1,6 +1,6 @@
 # 🌤️ Android Weather App
 
-A fully-featured Android weather application that provides real-time forecasts using the Tomorrow.io API. Built with Java, Android SDK, MongoDB, and a custom Node.js backend, this app enables users to view detailed weather data, manage favorite cities, and share weather updates via Twitter.
+A fully-featured Android weather application that provides real-time forecasts using the Tomorrow.io API. Built with Java, Android SDK, MongoDB, and a custom Node.js backend, this app enables users to view detailed weather data, manage favorite cities, and share weather updates via X(Twitter).
 
 ---
 
@@ -31,8 +31,8 @@ A fully-featured Android weather application that provides real-time forecasts u
 ### 🔹 Favorites & Tweet
 
 <div style="display: flex; gap: 10px; margin-top: 15px;">
-  <img src="demo/add_to_remove_from_fav.gif" alt="Favorites" width="48%">
-  <img src="demo/tweet.gif" alt="Tweet" width="48%">
+  <img src="demo/add_to_remove_from_fav.gif" alt="Favorites" width="30%">
+  <img src="demo/tweet.gif" alt="Tweet" width="30%">
 </div>
 
 
@@ -105,7 +105,8 @@ android_mobile/
    - Ensure backend is accessible from Android emulator
 
 ## Video Demo
-<video controls src="demo/weather_app_demo.mp4" title="Title"></video>
+<video controls src="https://private-user-images.githubusercontent.com/86525458/443847668-6ac2f0ff-ea4d-4a7c-91fc-6ba30e6ed9b0.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyNTc2MTQsIm5iZiI6MTc0NzI1NzMxNCwicGF0aCI6Ii84NjUyNTQ1OC80NDM4NDc2NjgtNmFjMmYwZmYtZWE0ZC00YTdjLTkxZmMtNmJhMzBlNmVkOWIwLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE0VDIxMTUxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxOTgwMWUxNzAzYjIwMjk0M2IxOGM5OGM2NWY3ZmU0Yzc2YmNhMmFkYTMxYjZkNmRmNGI4MjgzNDIxNzI2ZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.slpTSQgGLBxK7pEfANL5HNor51Odp0djXKkGTf6wHis" title="Title" width = 30%></video>
+
 ---
 
 

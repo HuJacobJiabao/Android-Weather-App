@@ -104,9 +104,10 @@ android_mobile/
    - Set your Tomorrow.io API key in `server.js` for backend
    - Ensure backend is accessible from Android emulator
 
+---
+
 ## Video Demo
 <video controls src="https://private-user-images.githubusercontent.com/86525458/443847668-6ac2f0ff-ea4d-4a7c-91fc-6ba30e6ed9b0.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyNTc2MTQsIm5iZiI6MTc0NzI1NzMxNCwicGF0aCI6Ii84NjUyNTQ1OC80NDM4NDc2NjgtNmFjMmYwZmYtZWE0ZC00YTdjLTkxZmMtNmJhMzBlNmVkOWIwLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE0VDIxMTUxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxOTgwMWUxNzAzYjIwMjk0M2IxOGM5OGM2NWY3ZmU0Yzc2YmNhMmFkYTMxYjZkNmRmNGI4MjgzNDIxNzI2ZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.slpTSQgGLBxK7pEfANL5HNor51Odp0djXKkGTf6wHis" title="Title" width = 30%></video>
 
----
 
 

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <!-- Set the search text color to white -->
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:hint">@android:color/darker_gray</item>
+        <item name="queryBackground">@color/black</item>
+
+    </style>
+
+    <style name="TabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">12sp</item> <!-- Reduce the text size -->
+        <item name="android:textColor">@android:color/white</item> <!-- Set color -->
+    </style>
+
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">androidapp-env.eba-x2jegtw2.us-east-1.elasticbeanstalk.com</domain>
+        <domain includeSubdomains="ture">androidapp-env-2.eba-x2jegtw2.us-east-1.elasticbeanstalk.com</domain>
+    </domain-config>
+</network-security-config>

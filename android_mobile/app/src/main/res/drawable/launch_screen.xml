@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background Color -->
+    <item android:drawable="@color/black" />
+
+    <!-- Weather App Icon -->
+    <item
+        android:drawable="@drawable/weather_partly_snowy_rainy__1_"
+        android:width="50dp"
+        android:height="50dp"
+        android:gravity="center"/>
+
+    <!-- Powered by Tomorrow.io -->
+    <item>
+        <bitmap
+            android:gravity="bottom|center_horizontal"
+            android:src="@drawable/powered_by_tomorrow_white" />
+    </item>
+
+</layer-list>

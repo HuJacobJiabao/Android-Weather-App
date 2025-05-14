@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="app_icon">app_icon</string>
+    <string name="_94_humidity">94% Humidity</string>
+    <string name="title_activity_retrofit">Retrofit</string>
+    <string name="tv_summary">Mostly Clear</string>
+    <string name="unknown_weather">Unknown weather</string>
+</resources>
